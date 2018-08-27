@@ -1,0 +1,201 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"li\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nicolestarnes/Desktop/Coding Projects/Portfolio Site/css/style.css",
+		"/Users/nicolestarnes/Desktop/Coding Projects/Portfolio Site/index.html",
+		"/Users/nicolestarnes/Desktop/Coding Projects/templatemo_476_conquer 2/index.html",
+		"/Users/nicolestarnes/Desktop/menus and links/css/style.css",
+		"/Users/nicolestarnes/Desktop/menus and links/index.html",
+		"/Users/nicolestarnes/Desktop/index.html",
+		"/Users/nicolestarnes/Desktop/style.css",
+		"/Users/nicolestarnes/Desktop/Coding Projects/myacme/css/style.css",
+		"/Users/nicolestarnes/Desktop/Coding Projects/myacme/index.html",
+		"/Users/nicolestarnes/Desktop/Coding Projects/Saunders Photo Gallery/css/style.css",
+		"/Users/nicolestarnes/Desktop/Coding Projects/Saunders Photo Gallery/index.html",
+		"/Users/nicolestarnes/Desktop/Coding Projects/JavaScript Practice/css/style.css",
+		"/Users/nicolestarnes/Desktop/Coding Projects/JavaScript Practice/index.html",
+		"/Users/nicolestarnes/Downloads/index.html",
+		"/Users/nicolestarnes/Downloads/style.css",
+		"/Users/nicolestarnes/Desktop/Coding Projects/My Webpage Practice/css/style.css",
+		"/Users/nicolestarnes/Desktop/Coding Projects/My Webpage Practice/index.html",
+		"/Users/nicolestarnes/Desktop/Coding Projects/acme/css/style.css",
+		"/Users/nicolestarnes/Desktop/Coding Projects/acme/index.html",
+		"/Users/nicolestarnes/Desktop/Saunders Photo Gallery/css/style.css",
+		"/Users/nicolestarnes/Desktop/Saunders Photo Gallery/index.html",
+		"/Users/nicolestarnes/Desktop/myacme/index.html",
+		"/Users/nicolestarnes/Desktop/myacme/css/style.css",
+		"/Users/nicolestarnes/Desktop/acme/index.html",
+		"/Users/nicolestarnes/Desktop/We are sofa project/index.html",
+		"/Users/nicolestarnes/Downloads/templatemo_476_conquer/css/style.css",
+		"/Users/nicolestarnes/Downloads/templatemo_476_conquer/css/bootstrap.min.css",
+		"/Users/nicolestarnes/Desktop/untitled folder/main.js",
+		"/Users/nicolestarnes/Desktop/SampleSite/style.css",
+		"/Users/nicolestarnes/Desktop/Samplesite.html",
+		"/Users/nicolestarnes/Desktop/htmlcheatsheet/index.html",
+		"/Users/nicolestarnes/Desktop/html files/untitled.html",
+		"/Users/nicolestarnes/Desktop/untitled.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,129 @@
+body{
+	background-color: #f4f4f4;
+	font-family: times new roman;
+	font-size: 16px;
+	padding: 0px;
+	margin: 0px;
+	line-height: 1.5;
+}
+
+#logo{
+	background-color: grey;
+	padding-top: 20px;
+	min-height: 70px;
+	border-bottom: 3px black solid;
+}
+
+.container{
+	width: 80%;
+	text-align: center;
+	margin: auto;
+	overflow: hidden;
+
+}
+
+#boxes .box{
+	float: left;
+	width: 30%;
+	padding: 10px;
+	text-align: center;
+}
+
+.imgiphone{
+	position: absolute;
+	top: 50px;
+	left: 100px;
+	opacity: 0.1;
+}
+
+
+
+#collage div{
+	
+	float: left;
+	width: 25%;
+	height: 250px;
+}
+
+#collage .box1{
+	background-image: url(../img/pinkflower1.jpg);
+}
+
+#collage .box2{
+	background-color: hotpink;
+}
+
+#collage .box3{
+	background-image: url(../img/pinkflower2.jpg);
+}
+
+#collage .box4{
+	background-color: hotpink;
+}
+
+#collage2 div{
+	
+	float: left;
+	width: 25%;
+	height: 250px;
+}
+
+#collage2 .box5{
+	background-color: hotpink;
+}
+
+#collage2 .box6{
+	background-image: url(../img/pinkflower3.jpg);
+}
+
+#collage2 .box7{
+	background-color: hotpink;
+}
+
+#collage2 .box8{
+	background-image: url(../img/pinkflower4.jpg);
+}
+
+#collage p{
+	text-align: center;
+	font-size: 22px;
+	color: white;
+}
+
+
+.arrow-up{
+	height: 0;
+	width: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+
+	border-bottom: 50px solid hotpink;
+}
+
+.arrow-down{
+	height: 0;
+	width: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-top: 20px solid green;
+	
+}
+
+.arrow-right{
+	height: 0;
+	width: 0;
+	border-left: 60px solid red;
+	border-top: 60px solid transparent;
+
+	border-bottom: 60px solid transparent;
+}
+
+.arrow-left{
+	height: 0;
+	width: 0;
+	border-top: 30px solid transparent;
+	border-right: 30px solid blue;
+
+	border-bottom: 30px solid transparent;
+}
+
